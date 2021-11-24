@@ -18,4 +18,9 @@ import {
 }
 from "./medium/medium_2.js";
 
-console.log(getMedian([2,1,3,3,3,5]));
+import {
+    repeatDemo, multiplyBy, tenTimes, tenTimesFifty
+}
+from "./spicy/spicy_9.js";
+
+console.log(tenTimesFifty());
