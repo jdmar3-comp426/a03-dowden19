@@ -18,4 +18,4 @@ import {
 }
 from "./medium/medium_2.js";
 
-console.log(moreStats.avgMpgByYearAndHybrid);
+console.log(getMedian([2,1,3,3,3,5]));
