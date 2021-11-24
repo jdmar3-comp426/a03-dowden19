@@ -1,4 +1,4 @@
-export function variance(array, mean) {
+export function Variance(array, mean) {
     return array.map(function (sample) {
         return Math.pow(mean - sample, 2);
     })
